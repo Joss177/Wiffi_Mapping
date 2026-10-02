@@ -1,0 +1,5 @@
+timestamp,x,y,zona,ssid,bssid,rssi,channel,band
+2026-10-02 12:18:47,0.0,0,Laboratorio - punto de inicio,EnvCam_Site,3e:78:95:83:57:53,-29.0,48,5 GHz
+2026-10-02 12:19:11,2.5,0,Salida del laboratorio,EnvCam_Site,3e:78:95:83:57:53,-29.0,48,5 GHz
+2026-10-02 12:19:27,5.0,0,Escaleras hacia oficinas,EnvCam_Site,3e:78:95:83:57:53,-29.0,48,5 GHz
+2026-10-02 12:19:47,7.5,0,Entrada a oficinas,EnvCam_Site,3e:78:95:83:57:53,-29.0,48,5 GHz

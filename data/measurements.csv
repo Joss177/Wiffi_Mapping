@@ -1,0 +1,10 @@
+timestamp,x,y,zona,ssid,bssid,rssi,channel,band
+2026-10-02 13:58:01,0.8,0.8,Oficina - punto 1,EnvCam_Site,3e:78:95:83:57:53,-28.0,48,5 GHz
+2026-10-02 13:58:23,3.16,0.8,Oficina - punto 2,EnvCam_Site,3e:78:95:83:57:53,-28.0,48,5 GHz
+2026-10-02 13:58:38,5.5,0.8,Oficina - punto 3,EnvCam_Site,3e:78:95:83:57:53,-28.0,48,5 GHz
+2026-10-02 13:58:53,0.8,2.405,Oficina - punto 4,EnvCam_Site,3e:78:95:83:57:53,-28.0,48,5 GHz
+2026-10-02 13:59:08,3.16,2.405,Oficina - Deco,EnvCam_Site,3e:78:95:83:57:53,-28.0,48,5 GHz
+2026-10-02 13:59:24,5.5,2.405,Oficina - punto 6,EnvCam_Site,3e:78:95:83:57:53,-28.0,48,5 GHz
+2026-10-02 13:59:39,0.8,4.0,Oficina - punto 7,EnvCam_Site,3e:78:95:83:57:53,-28.0,48,5 GHz
+2026-10-02 14:00:02,3.16,4.0,Oficina - punto 8,EnvCam_Site,3e:78:95:83:57:53,-28.0,48,5 GHz
+2026-10-02 14:00:19,5.5,4.0,Oficina - punto 9,EnvCam_Site,3e:78:95:83:57:53,-28.0,48,5 GHz

@@ -1,0 +1,26 @@
+timestamp,x,y,zona,ssid,bssid,rssi,channel,band
+2026-10-02 12:08:33,0.0,0,Deco principal - Antiguo taller de montacargas,EnvCam_Site,3e:78:95:83:7f:83,-32.0,48,5 GHz
+2026-10-02 12:08:51,2.5,0,Antiguo taller de montacargas,EnvCam_Site,3e:78:95:83:7f:83,-32.0,48,5 GHz
+2026-10-02 12:09:08,5.0,0,Antiguo taller de montacargas,EnvCam_Site,3e:78:95:83:7f:83,-32.0,48,5 GHz
+2026-10-02 12:09:23,7.5,0,Antiguo taller de montacargas,EnvCam_Site,3e:78:95:83:7f:83,-32.0,48,5 GHz
+2026-10-02 12:09:38,10.0,0,Antiguo taller de montacargas,EnvCam_Site,3e:78:95:83:7f:83,-32.0,48,5 GHz
+2026-10-02 12:09:52,13.13,0,Entrada a envasado,EnvCam_Site,3e:78:95:83:7f:83,-32.0,48,5 GHz
+2026-10-02 12:10:10,15.5,0,Interior de envasado,EnvCam_Site,3e:78:95:83:7f:83,-32.0,48,5 GHz
+2026-10-02 12:10:24,18.0,0,Interior de envasado,EnvCam_Site,3e:78:95:83:7f:83,-32.0,48,5 GHz
+2026-10-02 12:10:40,20.5,0,Interior de envasado,EnvCam_Site,3e:78:95:83:7f:83,-32.0,48,5 GHz
+2026-10-02 12:10:55,23.0,0,Interior de envasado,EnvCam_Site,3e:78:95:83:7f:83,-37.8,48,5 GHz
+2026-10-02 12:11:10,25.09,0,Salida de envasado,EnvCam_Site,3e:78:95:83:7f:83,-67.0,48,5 GHz
+2026-10-02 12:11:27,27.5,0,Corredor hacia escaleras,EnvCam_Site,3e:78:95:83:7f:83,-69.6,48,5 GHz
+2026-10-02 12:11:43,30.0,0,Corredor hacia escaleras,EnvCam_Site,3e:78:95:83:7f:83,-60.2,48,5 GHz
+2026-10-02 12:12:02,32.5,0,Corredor hacia escaleras,EnvCam_Site,3e:78:95:83:7f:83,-60.0,48,5 GHz
+2026-10-02 12:12:17,35.0,0,Corredor hacia escaleras,EnvCam_Site,3e:78:95:83:7f:83,-60.0,48,5 GHz
+2026-10-02 12:12:32,37.2,0,Inicio de escaleras,EnvCam_Site,3e:78:95:83:7f:83,-60.0,48,5 GHz
+2026-10-02 12:12:50,39.5,0,Escaleras,EnvCam_Site,3e:78:95:83:7f:83,-60.0,48,5 GHz
+2026-10-02 12:13:08,42.0,0,Escaleras,EnvCam_Site,3e:78:95:83:56:97,-60.4,48,5 GHz
+2026-10-02 12:13:24,44.5,0,Planta de recuperación de agua,EnvCam_Site,3e:78:95:83:56:97,-52.8,48,5 GHz
+2026-10-02 12:13:45,47.0,0,Entrada al laboratorio,EnvCam_Site,3e:78:95:83:56:97,-50.0,48,5 GHz
+2026-10-02 12:14:08,49.71,0,Laboratorio - Deco 2,EnvCam_Site,3e:78:95:83:56:97,-50.0,48,5 GHz
+2026-10-02 12:14:25,52.0,0,Salida del laboratorio,EnvCam_Site,3e:78:95:83:56:97,-50.0,48,5 GHz
+2026-10-02 12:14:46,54.0,0,Segundas escaleras,EnvCam_Site,3e:78:95:83:56:97,-50.0,48,5 GHz
+2026-10-02 12:15:12,56.0,0,Subiendo hacia oficinas,EnvCam_Site,3e:78:95:83:56:97,-50.0,48,5 GHz
+2026-10-02 12:15:50,58.79,0,Oficinas - Deco 3,EnvCam_Site,3e:78:95:83:56:97,-50.0,48,5 GHz

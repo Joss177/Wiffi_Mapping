@@ -1,0 +1,6 @@
+timestamp,x,y,zona,ssid,bssid,rssi,channel,band
+2026-10-02 12:24:29,0.0,0,Deco 3 Oficina - Antiguo taller de montacargas,EnvCam_Site,3e:78:95:83:57:53,-25.0,48,5 GHz
+2026-10-02 12:24:47,2.5,0,Fuera de la oficina,EnvCam_Site,3e:78:95:83:57:53,-25.0,48,5 GHz
+2026-10-02 12:25:09,5.0,0,Escaleras 2,EnvCam_Site,3e:78:95:83:57:53,-25.0,48,5 GHz
+2026-10-02 12:25:23,7.5,0,Entrada Laboratorio,EnvCam_Site,3e:78:95:83:57:53,-25.0,48,5 GHz
+2026-10-02 12:25:54,10.0,0,Deco 2 Laboratorio,EnvCam_Site,3e:78:95:83:57:53,-53.0,48,5 GHz

@@ -1,0 +1,6 @@
+timestamp,x,y,zona,ssid,bssid,rssi,channel,band
+2026-10-02 12:24:29,0.0,0,Oficinas - Deco 3 - punto de inicio,EnvCam_Site,3e:78:95:83:57:53,-25.0,48,5 GHz
+2026-10-02 12:24:47,2.5,0,Salida de oficinas,EnvCam_Site,3e:78:95:83:57:53,-25.0,48,5 GHz
+2026-10-02 12:25:09,5.0,0,Segundas escaleras,EnvCam_Site,3e:78:95:83:57:53,-25.0,48,5 GHz
+2026-10-02 12:25:23,7.5,0,Entrada al laboratorio,EnvCam_Site,3e:78:95:83:57:53,-25.0,48,5 GHz
+2026-10-02 12:25:54,10.0,0,Laboratorio - Deco 2,EnvCam_Site,3e:78:95:83:57:53,-53.0,48,5 GHz
